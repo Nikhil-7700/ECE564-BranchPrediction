@@ -1,6 +1,6 @@
 # Branch Prediction Simulator
 
-This repository contains a C++ simulator for evaluating branch prediction strategies, developed as part of **ECE 563: Computer Architecture** at North Carolina State University, Fall 2023. The simulator supports **bimodal**, **gshare**, and **hybrid** predictors, and provides analysis of misprediction behavior across benchmarks.
+This repository contains a C++ simulator for evaluating branch prediction strategies. The simulator supports **bimodal**, **gshare**, and **hybrid** predictors, and provides analysis of misprediction behavior across benchmarks.
 
 ## Project Summary
 
